@@ -1,2 +1,1 @@
-"# react-dojah" 
-"# connect-dojah" 
+The connect.js library powering the dojah widget.

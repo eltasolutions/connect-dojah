@@ -1,0 +1,24 @@
+{
+  "name": "connect-dojah",
+  "version": "1.0.0",
+  "description": "The connect.js library powering the dojah widget.",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "javascript-obfuscator connect.development.js --output connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltasolutions/connect-dojah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltasolutions/connect-dojah/issues"
+  },
+  "homepage": "https://github.com/eltasolutions/connect-dojah#readme",
+  "dependencies": {
+    "javascript-obfuscator": "^2.4.3"
+  }
+}
